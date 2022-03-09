@@ -3,6 +3,9 @@
 # *CAT WORLD*
 ***
 [RAZAS](./Razas.md)| [HISTORIA](./HISTORIA.md) | [CUIDADOS](./CUIDADOS.md) | [CARICATURAS](./CARICATURAS.md) 
+***
+![image](https://user-images.githubusercontent.com/99773679/157523418-eb4d3886-f4b0-458d-8b31-fa555b70cddc.png)
+
 
 You can use the [editor on GitHub](https://github.com/GATOS-Y-MAS-GATOS/GATOS-Y-MAS-GATOS-GITHUB-IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
