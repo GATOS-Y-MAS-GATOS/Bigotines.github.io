@@ -1,4 +1,8 @@
-##BIENVENIDOS AL MUNDO GATUNO  😺
+# **Bienvenidos al MUNDO GATUNO** 😺
+
+# *CAT WORLD*
+***
+[RAZAS](./Razas.md)| [HISTORIA](./HISTORIA.md) | [CUIDADOS](./CUIDADOS.md) | [CARICATURAS](./CARICATURAS.md) 
 
 You can use the [editor on GitHub](https://github.com/GATOS-Y-MAS-GATOS/GATOS-Y-MAS-GATOS-GITHUB-IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
