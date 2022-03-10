@@ -1,20 +1,13 @@
 
 # **Bienvenidos al MUNDO GATUNO** 😺
 _ _ _
-[COMIDA](./COMIDA.md)| [PREMIOS](./PREMIOS.md) | [ROPA](./ROPA.md) | [ACCESORIOS](./ACCESORIOS.md) 
+[COMIDA](./COMIDA.md)| [PREMIOS](./PREMIOS.md) | [ACCESORIOS- Y-ROPA](./ACCESORIOS-Y-ROPA.md) | [UBICACIÓN](./UBICACIÓN.md) 
 - - -
 # *BIGOTINES*
 
 _ _  _
 ![logotipo-silueta-gato-amante-monograma-corazon-gato-aislado-sobre-fondo-blanco_8589-424](https://user-images.githubusercontent.com/99773679/157765998-c367b2ec-f54c-40dd-a03f-3c15f32c202a.jpg)
 _ _ _
-# *BIGOTINES*
-
-
-***
-[COMIDA](./COMIDA.md)| [PREMIOS](./PREMIOS.md) | [ROPA](./ROPA.md) | [ACCESORIOS](./ACCESORIOS.md) 
-***
-
 ![image](https://user-images.githubusercontent.com/99773679/157523418-eb4d3886-f4b0-458d-8b31-fa555b70cddc.png)
 ***
 Gato, procedente del vocablo latino cattus, 
