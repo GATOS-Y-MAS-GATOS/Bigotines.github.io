@@ -12,7 +12,7 @@ _ _ _
 ***
 
 
-You can use the [editor on GitHub](https://github.com/GATOS-Y-MAS-GATOS/GATOS-Y-MAS-GATOS-GITHUB-IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+___LA MEJOR OPCIÓN PARA CONSENTIR A TU MICHI 👌
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
