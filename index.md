@@ -1,7 +1,7 @@
 
 # **Bienvenidos al MUNDO GATUNO** 😺
 _ _ _
-[COMIDA](./COMIDA.md)| [PREMIOS](./PREMIOS.md) | [ACCESORIOS- Y-ROPA](./ACCESORIOS-Y-ROPA.md) | [UBICACIÓN](./UBICACIÓN.md) 
+[COMIDA](./COMIDA.md)| [PREMIOS](./PREMIOS.md) | [ACCESORIOS Y ROPA](./ACCESORIOS-Y-ROPA.md) | [UBICACIÓN](./UBICACIÓN.md) 
 - - -
 # *BIGOTINES*
 
