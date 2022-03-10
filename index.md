@@ -10,12 +10,6 @@ _ _  _
 _ _ _
 ![image](https://user-images.githubusercontent.com/99773679/157523418-eb4d3886-f4b0-458d-8b31-fa555b70cddc.png)
 ***
-Gato, procedente del vocablo latino cattus, 
-es un término que alude a un animal
- mamífero que forma parte del conjunto de los félidos: 
-aquellas especies carnívoras que presentan patas posteriores
- con cuatro dedos y patas anteriores con cinco dedos; uñas retráctiles; hocico corto; y cabeza de forma redondeada. 
-Los gastos además son digitígrados ya que, al caminar, solamente apoyan sus dedos
 
 
 You can use the [editor on GitHub](https://github.com/GATOS-Y-MAS-GATOS/GATOS-Y-MAS-GATOS-GITHUB-IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
