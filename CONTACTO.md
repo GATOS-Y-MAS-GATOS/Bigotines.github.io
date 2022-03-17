@@ -24,8 +24,8 @@
 
 
 <form>
-  <label for="fecha y hora">fecha y hora (fecha y hora):</label>
-  <input type="fecha y hora" id="fecha y hora" fecha y hora="fecha y hora">
+  <label for="date">date (date):</label>
+  <input type="date" id="date" date="date">
 </form>
 
 
