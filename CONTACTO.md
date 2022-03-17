@@ -14,8 +14,8 @@
     
     
   <form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Usuario"><br>
+  <label for="Email">Email:</label><br>
+  <input type="Email" id="Email" Email="Email" value="Usuario"><br>
   <label for="Teléfono">Teléfono:</label><br>
   <input type="Teléfono" id="Teléfono" Teléfono="Teléfono" value="Teléfono"><br><br>
   <input type="submit" value="Enviar">
