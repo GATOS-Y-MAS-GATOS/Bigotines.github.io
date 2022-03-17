@@ -21,4 +21,10 @@
   <input type="submit" value="Enviar">
 </form>
 
+
+
+<form>
+  <label for="fecha y hora">fecha y hora (fecha y hora):</label>
+  <input type="fecha y hora" id="fecha y hora" fecha y hora="fecha y hora">
+</form>
 # [Regresar](/index.md)    
