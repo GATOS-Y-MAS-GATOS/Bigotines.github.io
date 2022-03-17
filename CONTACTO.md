@@ -15,10 +15,10 @@
     
   <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Montserrat"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
-  <input type="submit" value="Submit">
+  <input type="text" id="fname" name="fname" value="Usuario"><br>
+  <label for="Teléfono">Teléfono:</label><br>
+  <input type="Teléfono" id="Teléfono" Teléfono="Teléfono" value="Teléfono"><br><br>
+  <input type="submit" value="Enviar">
 </form>
 
 # [Regresar](/index.md)    
