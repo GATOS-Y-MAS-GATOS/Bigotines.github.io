@@ -18,15 +18,16 @@
   <input type="Email" id="Email" Email="Email" value="Usuario"><br>
   <label for="Teléfono">Teléfono:</label><br>
   <input type="Teléfono" id="Teléfono" Teléfono="Teléfono" value="Teléfono"><br><br>
+  <form>
+  <label for="date">date (date):</label>
+  <input type="date" id="date" date="date">
+</form>
+
   <input type="submit" value="Enviar">
 </form>
 
 
 
-<form>
-  <label for="date">date (date):</label>
-  <input type="date" id="date" date="date">
-</form>
 
 
 
