@@ -1,6 +1,6 @@
 [COMIDA](./COMIDA.md)| [PREMIOS](./PREMIOS.md) | [ACCESORIOS Y ROPA](./ACCESORIOS-Y-ROPA.md)  | [CONTACTO](./CONTACTO.md) 
 * *  *
-TELÉFONOS DE CONTACTO[image](![Uploading aaa1e16ab75418c14950600191710dcb.png…])
+TELÉFONOS DE CONTACTO[image(![Uploading aaa1e16ab75418c14950600191710dcb.png…])
 
 * * *
 CORREO ELECTRONICO: gatosymasgatos98@gmail.com
