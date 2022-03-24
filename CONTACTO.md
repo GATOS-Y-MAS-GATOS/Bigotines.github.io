@@ -17,7 +17,7 @@ UBICACIÓN: [Av. Aztecas 224, Los Reyes, Coyoacán, 04330 Ciudad de México, CDM
     
     
     
-  <form action="https://formspree.io/f/mlezlqvy">
+  form action="https://formspree.io/f/mlezlqvy"
   <label for="Email">Email:</label><br>
   <input type="Email" id="Email" Email="Email" value="Usuario"><br>
   <label for="Teléfono">Teléfono:</label><br>
