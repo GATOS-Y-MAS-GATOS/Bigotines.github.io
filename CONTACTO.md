@@ -1,6 +1,7 @@
 [COMIDA](./COMIDA.md)| [PREMIOS](./PREMIOS.md) | [ACCESORIOS Y ROPA](./ACCESORIOS-Y-ROPA.md)  | [CONTACTO](./CONTACTO.md) 
 * *  *
-TELÉFONOS DE CONTACTO[image(![Uploading aaa1e16ab75418c14950600191710dcb.png…])
+TELÉFONOS DE CONTACTO : ![2dcd8411dc7813e31c6ff67551943bef](https://user-images.githubusercontent.com/99773679/160023667-e8769e25-1525-4182-8732-0ce2e95e04dc.png)
+
 
 * * *
 CORREO ELECTRONICO: gatosymasgatos98@gmail.com
@@ -16,7 +17,7 @@ UBICACIÓN: [Av. Aztecas 224, Los Reyes, Coyoacán, 04330 Ciudad de México, CDM
     
     
     
-  <form action="/action_page.php">
+  <form action="https://formspree.io/f/mlezl>
   <label for="Email">Email:</label><br>
   <input type="Email" id="Email" Email="Email" value="Usuario"><br>
   <label for="Teléfono">Teléfono:</label><br>
