@@ -20,7 +20,7 @@ UBICACIÓN: [Av. Aztecas 224, Los Reyes, Coyoacán, 04330 Ciudad de México, CDM
 <label for="date">date (date):</label>
 <input type="date" id="date" date="date">
 <input type="submit" value="Enviar">
-</form>
+</form>                               
 
 
 
