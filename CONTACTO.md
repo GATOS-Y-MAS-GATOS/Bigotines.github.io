@@ -6,7 +6,7 @@ TELÉFONOS DE CONTACTO : ![2dcd8411dc7813e31c6ff67551943bef](https://user-images
 * * *
 CORREO ELECTRONICO: gatosymasgatos98@gmail.com
 *  *  *
-UBICACIÓN: [Av. Aztecas 224, Los Reyes, Coyoacán, 04330 Ciudad de México, CDMX, México](https://www.google.com.mx/maps/place/es+una+direcci%C3%B3n+falsa,+Av.+Aztecas+224,+Los+Reyes,+Coyoac%C3%A1n,+04330+Ciudad+de+M%C3%A9xico,+CDMX/@19.3283534,-99.1573424,17z/data=!3m1!4b1!4m5!3m4!1s0x85ce01e1e6ea9c3b:0x53624b5351889b82!8m2!3d19.3283484!4d-99.1551537)|         
+UBICACIÓN: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.712268713262!2d-99.20780038509045!3d19.424834145962375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d201f6bb02e51b%3A0x1e4085f57805fd00!2sPrado%20Sur%20225%2C%20Lomas%20-%20Virreyes%2C%20Lomas%20de%20Chapultepec%2C%20Miguel%20Hidalgo%2C%2011000%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses!2smx!4v1648765266198!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        
 
 <form action="https://formspree.io/f/mlezlqvy" method="POST">
 <label for="name">Nombres:</label><br>
